@@ -14,4 +14,4 @@ files or folder ko aap delete kar paaoge
 ## ROUTES LIST
 --------------
 
-/ - GET  - SHOW KAREGA VS CODE KA FRONT PAGE KO 
+ - GET  - SHOW KAREGA VS CODE KA FRONT PAGE KO 
